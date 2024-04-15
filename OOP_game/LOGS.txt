@@ -1,0 +1,701 @@
+STATUS: Game started!
+GAME: Changing the position of the player
+GAME: stepped on a trap!
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: stepped on a trap!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the armor!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Error restore state because of:
+File [SAVE.txt] was changed!
+STATUS: Game started!
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: stepped on a trap!
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the armor!
+GAME: Changing the position of the player
+ERROR: incorrect input
+ERROR: incorrect input
+STATUS: Game started!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the armor!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the armor!
+GAME: Changing the position of the player
+GAME: Error restore state because of:
+File [SAVE.txt] was changed!
+STATUS: Game started!
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: stepped on a trap!
+GAME: Changing the position of the player
+STATUS: Game started!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the armor!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: Error open file state because of:
+Could not open file [SAVE.txt] for save state
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: Error open file state because of:
+Could not open file [SAVE.txt] for save state
+STATUS: Game started!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the armor!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: stepped on a trap!
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Error restore state because of:
+Incorrect values in file, file was changed!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Error restore state because of:
+Incorrect values in file, file was changed!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+STATUS: Game started!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the armor!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: stepped on a trap!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: stepped on a trap!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: stepped on a trap!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Error load state because of:
+Incorrect values for field's size in file, file was changed!
+GAME: Changing the position of the player
+STATUS: Game started!
+GAME: Changing the position of the player
+GAME: stepped on a trap!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the armor!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the armor!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: Error load state because of:
+Incorrect values for field's size in file, file was changed!
+STATUS: Game started!
+GAME: stepped on a trap!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the armor!
+GAME: Changing the position of the player
+GAME: Error load state because of:
+Incorrect values for field's size in file, file was changed!
+STATUS: Game started!
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: stepped on a trap!
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: Error load state because of:
+Incorrect values for field's size in file, file was changed!
+STATUS: Game started!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+STATUS: Game started!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: stepped on a trap!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: you picked up the armor!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the armor!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Error load state because of:
+Incorrect values for field's size in file, file was changed!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: stepped on a trap!
+GAME: Changing the position of the player
+GAME: Error load state because of:
+Incorrect values for field's size in file, file was changed!
+STATUS: Game started!
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the armor!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: stepped on a trap!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the armor!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the armor!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the armor!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Error load state because of:
+Incorrect values for field's size in file, file was changed!
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: stepped on a trap!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Error load state because of:
+Incorrect values for field's size in file, file was changed!
+GAME: you picked up the armor!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: stepped on a trap!
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the armor!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Error load state because of:
+Incorrect values for field's size in file, file was changed!
+STATUS: Game started!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the armor!
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: stepped on a trap!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the armor!
+GAME: Changing the position of the player
+GAME: The download was successful!
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: The data has been successfully uploaded!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: stepped on a trap!
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: you picked up the armor!
+GAME: Changing the position of the player
+GAME: you picked up the armor!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: You win!
+GAME: Changing the position of the player
+STATUS: Game over
+
+STATUS: Game started!
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the armor!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: stepped on a trap!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the armor!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the armor!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+STATUS: Game over
+
+ERROR: incorrect input
+STATUS: Game started!
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Battle with the enemy!
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: stepped on a trap!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: You win!
+GAME: Changing the position of the player
+STATUS: Game over
+
+STATUS: Game started!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: you picked up the first aid kit!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+STATUS: Game started!
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player
+GAME: Changing the position of the player

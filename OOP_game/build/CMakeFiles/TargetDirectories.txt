@@ -1,0 +1,3 @@
+/home/user/root/game/build/CMakeFiles/rebuild_cache.dir
+/home/user/root/game/build/CMakeFiles/edit_cache.dir
+/home/user/root/game/build/CMakeFiles/build.dir
